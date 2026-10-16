@@ -1,0 +1,4 @@
+authguard.db
+authguard-backend/*.db
+authguard-backend/__pycache__/
+authguard-backend/.venv/
